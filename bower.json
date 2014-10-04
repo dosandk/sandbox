@@ -1,0 +1,22 @@
+{
+  "name": "sandbox",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dosandk/sandbox",
+  "authors": [
+    "Vladimir Shevchuk <dosandk@rambler.ru>"
+  ],
+  "description": "sandbox js experimens",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "backbone": "~1.1.2"
+  }
+}
