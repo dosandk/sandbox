@@ -19,6 +19,7 @@
     "backbone-amd": "~1.1.0",
     "underscore-amd": "~1.5.2",
     "jquery": "~2.1.1",
-    "requirejs": "~2.1.15"
+    "requirejs": "~2.1.15",
+    "bootstrap-sass": "~3.0.2"
   }
 }
