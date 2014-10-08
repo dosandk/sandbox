@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dosandk/sandbox",
   "devDependencies": {
+    "grunt": "^0.4.5",
     "gulp": "^3.8.8"
   }
 }
