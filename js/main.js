@@ -1,9 +1,8 @@
 require.config({
     paths: {
-        "jquery": "libs/jquery/dist/jquery",
+        "jquery": "libs/jquery/jquery",
         "backbone": "libs/backbone-amd/backbone",
         "underscore": "libs/underscore-amd/underscore",
-        "text": "libs/requirejs/requirejs-plugins/text",
 
         // views
         "app": "views/app"
